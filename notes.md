@@ -30,3 +30,25 @@ http://openeeg.sourceforge.net/doc/  - Open EEG project.  It may be full of new-
 http://pceeg.sourceforge.net/ - An arduino-based EEG project. 
 
 http://en.wikipedia.org/wiki/Comparison_of_consumer_brain-computer_interface_devices  - A brief round-up of some consumer devices.  I highly suggest you click around and see what each can do and how it's being done.
+
+
+****
+
+Biosignal-Based Spoken Communication: A Survey
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8114358
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5829556/
+
+http://bnci-horizon-2020.eu/images/bncih2020/Roadmap_BNCI_Horizon_2020.pdf 
+
+https://www.tandfonline.com/doi/full/10.1080/2326263X.2015.1008956
+
+https://www.tandfonline.com/toc/tbci20/current 
+
+Interesting (but early) research. Learn like in-the-matrix (sorta) http://science.sciencemag.org/content/334/6061/1413
+
+
+https://www.technologyreview.com/s/603771/the-entrepreneur-with-the-100-million-plan-to-link-brains-to-computers/
+
+
+https://www.media.mit.edu/projects/alterego/overview/
