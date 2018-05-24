@@ -52,3 +52,8 @@ https://www.technologyreview.com/s/603771/the-entrepreneur-with-the-100-million-
 
 
 https://www.media.mit.edu/projects/alterego/overview/
+
+**** 
+
+Check and read http://www.frontiernerds.com/brain-hack
+OpenBCI
