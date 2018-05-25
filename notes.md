@@ -65,3 +65,15 @@ https://neurotechx.github.io/studentclubs/curriculum/
 http://learn.neurotechedu.com/
 
 https://london.hackspace.org.uk/events/
+
+***
+
+
+Regarding availability of OpenBCI kits in London
+
+Imara Speek - 
+
+"No, but there's a biohacker meetup every week in the makerspace in London. If you try and get into contact with them, a lot of people there have some kits available and they're always open to introducing others.
+
+Good luck!"
+
