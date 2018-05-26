@@ -77,3 +77,11 @@ Imara Speek -
 
 Good luck!"
 
+*** 
+
+Wikipedia notes:
+
+https://knowingneurons.com/2016/05/18/brain-waves/
+
+https://en.wikipedia.org/wiki/Neural_oscillation
+
