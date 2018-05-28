@@ -85,3 +85,10 @@ https://knowingneurons.com/2016/05/18/brain-waves/
 
 https://en.wikipedia.org/wiki/Neural_oscillation
 
+***
+
+ML is stuck on asking why... would BCI be useful in correcting doubts
+
+- A pioneer of machine learning predicts that we'll know AI is capable of committing evil when "it is obvious to us that there are software components that the robot ignores, consistently ignores. When it appears that the robot follows the advice of some software components and not others..." -
+
+https://www.theatlantic.com/technology/archive/2018/05/machine-learning-is-stuck-on-asking-why/560675/
