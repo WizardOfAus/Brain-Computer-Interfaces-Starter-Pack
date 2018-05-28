@@ -92,3 +92,21 @@ ML is stuck on asking why... would BCI be useful in correcting doubts
 - A pioneer of machine learning predicts that we'll know AI is capable of committing evil when "it is obvious to us that there are software components that the robot ignores, consistently ignores. When it appears that the robot follows the advice of some software components and not others..." -
 
 https://www.theatlantic.com/technology/archive/2018/05/machine-learning-is-stuck-on-asking-why/560675/
+
+
+****
+
+https://www.alzheimersresearchuk.org/about-dementia/helpful-information/the-brain-tour/
+
+Look into how Alzheimer's affects the brains... What parts of the brain?
+
+Can computers alzheimer?
+
+https://www.dementiablog.org/using-computers-to-decode-alzheimers/
+
+https://www.alzheimersresearchuk.org/can-computer-science-solve-the-complexities-of-neurodegeneration/
+
+https://motherboard.vice.com/en_us/article/qkv5xq/can-learning-to-code-delay-alzheimers
+
+https://www.techradar.com/news/computing/your-computer-usage-can-predict-early-signs-of-alzheimer-s-1317640
+
