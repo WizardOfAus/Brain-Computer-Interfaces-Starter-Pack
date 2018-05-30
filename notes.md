@@ -120,3 +120,10 @@ https://beblog.seas.upenn.edu/tag/curiosity/
 
 
 
+***
+
+Interesting stuff from Cambridge
+
+https://www.neuroscience.cam.ac.uk/research/cameos/DegeneratingBrain.php
+
+Esp. on degenerative brains
