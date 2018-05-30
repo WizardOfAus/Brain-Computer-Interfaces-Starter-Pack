@@ -93,6 +93,7 @@ ML is stuck on asking why... would BCI be useful in correcting doubts
 
 https://www.theatlantic.com/technology/archive/2018/05/machine-learning-is-stuck-on-asking-why/560675/
 
+https://en.wikipedia.org/wiki/Neuroprosthetics
 
 ****
 
