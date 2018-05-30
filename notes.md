@@ -111,3 +111,12 @@ https://motherboard.vice.com/en_us/article/qkv5xq/can-learning-to-code-delay-alz
 
 https://www.techradar.com/news/computing/your-computer-usage-can-predict-early-signs-of-alzheimer-s-1317640
 
+
+***
+
+Read the centre for curiosity
+
+https://beblog.seas.upenn.edu/tag/curiosity/
+
+
+
