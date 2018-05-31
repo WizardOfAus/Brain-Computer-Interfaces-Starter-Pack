@@ -147,3 +147,20 @@ Boosting brain performance
 Despite the relatively high doses used in trials, resveratrol has provided some fantastic research findings. This began about a decade ago when it was found to significantly increase lifespan in yeast, flies, worms and fish by essentially slowing their metabolism down. There is no evidence that resveratrol increases human lifespan, but findings suggests that resveratrol could slow the ageing process with its antioxidant and anti-inflammatory properties.
 
 
+****
+
+Add Brain Sciences
+
+http://www.apa.org/action/science/brain-science/index.aspx
+
+I believe attention hacking is going to be the sugar epidemic of this generation. I can feel the changes in my own life — I can still wistfully remember when I had an attention span. My friends’ young children don’t even know that’s something they should miss. I am angry and unhappy more often, but I channel it into productive change less often, instead chasing the dual dopamine hits of likes and outrage.
+
+
+http://blog.samaltman.com/the-merge
+
+** Can we improve attention in the brain / if not, will our attention cause problems for BCI etc..?
+
+
+
+
+
