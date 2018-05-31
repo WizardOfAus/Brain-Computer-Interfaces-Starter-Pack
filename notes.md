@@ -136,3 +136,14 @@ The Athena Inria Team, presents us what is and how they work on brain computer i
 Featuring Maureen Clerc, Théo Papadopoulo from Inria and Marie-Hélène Soriani from the Nice University Hospital.
 
 https://www.youtube.com/watch?v=lWzU_8_qA6w
+
+***
+
+*resveratrol*
+
+https://theconversation.com/the-french-paradox-turned-out-to-be-an-illusion-but-it-led-to-some-interesting-research-78196
+
+Boosting brain performance
+Despite the relatively high doses used in trials, resveratrol has provided some fantastic research findings. This began about a decade ago when it was found to significantly increase lifespan in yeast, flies, worms and fish by essentially slowing their metabolism down. There is no evidence that resveratrol increases human lifespan, but findings suggests that resveratrol could slow the ageing process with its antioxidant and anti-inflammatory properties.
+
+
