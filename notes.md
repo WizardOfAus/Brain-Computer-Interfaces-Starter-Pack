@@ -127,3 +127,12 @@ Interesting stuff from Cambridge
 https://www.neuroscience.cam.ac.uk/research/cameos/DegeneratingBrain.php
 
 Esp. on degenerative brains
+
+
+***
+
+The Athena Inria Team, presents us what is and how they work on brain computer interface (BCI)...
+
+Featuring Maureen Clerc, Théo Papadopoulo from Inria and Marie-Hélène Soriani from the Nice University Hospital.
+
+https://www.youtube.com/watch?v=lWzU_8_qA6w
