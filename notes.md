@@ -161,7 +161,7 @@ http://blog.samaltman.com/the-merge
 ** Can we improve attention in the brain / if not, will our attention cause problems for BCI etc..?
 
 **
-Serotonin
+Serotonin increases patience by 75% if a timeley reward is guaranteed
 
 
 
