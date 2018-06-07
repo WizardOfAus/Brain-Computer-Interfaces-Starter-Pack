@@ -165,4 +165,7 @@ Serotonin increases patience by 75% if a timeley reward is guaranteed
 
 
 
+****
+
+EEG (Electroencephalography)
 
