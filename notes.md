@@ -1,3 +1,10 @@
+TOC
+What is BCI?
+What are useful and related topics to it?
+Current learning resouces links
+Next steps
+
+
 Most detailed search to save time needed for searching.
 
 https://en.wikipedia.org/wiki/SQUID
