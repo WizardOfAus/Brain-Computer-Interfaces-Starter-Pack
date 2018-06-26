@@ -204,3 +204,11 @@ Manipulation robotics is in the dark ages still. There is no generalisation in m
 
 https://web.stanford.edu/group/brainsinsilicon/neurogrid.html
 https://web.stanford.edu/group/brainsinsilicon/news.html
+
+***
+
+To keep a look out for:
+
+Miguel Nicolelis
+
+http://www.nicolelislab.net/
