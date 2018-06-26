@@ -181,3 +181,26 @@ EEG (Electroencephalography)
 Deep Brain Simulation 
 
 https://en.wikipedia.org/wiki/Deep_brain_stimulation
+
+***
+
+Thalamus = the bouncer for the brain
+
+https://en.wikipedia.org/wiki/Thalamus
+
+***
+
+Daniel Wolpert - why do we have a brain?
+
+We have a brain for movement: https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript
+
+Sea squirt eats its own brain once it settles down (sessility).
+
+Movment is a hard problem. What is the algorithm for dexterity?
+
+Manipulation robotics is in the dark ages still. There is no generalisation in movement mechanics.
+
+***
+
+https://web.stanford.edu/group/brainsinsilicon/neurogrid.html
+https://web.stanford.edu/group/brainsinsilicon/news.html
