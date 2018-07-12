@@ -212,3 +212,8 @@ To keep a look out for:
 Miguel Nicolelis
 
 http://www.nicolelislab.net/
+
+***
+
+Correlations between noise and brain wave patterns
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5149497/
