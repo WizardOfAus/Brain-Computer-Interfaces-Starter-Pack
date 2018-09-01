@@ -4,6 +4,7 @@
 - [Brain-body imaging dataset during treadmill](https://www.nature.com/articles/sdata201874)
 - [Personalised Films Based on Brainwaves](https://futurism.com/personalized-brainwave-guided-movies/)
 - [Scientists Claim These Gloves Are Being Used To Teach Piano And Rehab Stroke Victims](https://www.facebook.com/freethinksuperhuman/videos/1508650765928896/)
+- [The Curious Case of Patient H.M. - Seizures, Memory and Encoding](http://www.brainfacts.org/in-the-lab/tools-and-techniques/2018/the-curious-case-of-patient-hm-082818)
 
 
 
