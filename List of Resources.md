@@ -9,3 +9,13 @@ A guided walk-through on resources that are helpful to start learning about the 
 	- [Filler](https://filler.com)
 - [Filler](https://filler.com)
 - [Filler](https://filler.com)
+
+Links:
+
+Emotiv headset
+
+https://github.com/dashersw/brain-bits
+
+https://github.com/dashersw/wits
+
+https://github.com/dashersw/brain-monitor
