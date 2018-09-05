@@ -119,6 +119,11 @@ https://motherboard.vice.com/en_us/article/qkv5xq/can-learning-to-code-delay-alz
 https://www.techradar.com/news/computing/your-computer-usage-can-predict-early-signs-of-alzheimer-s-1317640
 
 
+**
+
+"Brain science research has found that in the first two years of a baby's birth, his brain nerve development has a huge impact on his entire life. At this time, these so-called nerves in his brain have actually taken shape, but the links between them are very free, and the links between these brains are crucial to his future learning ability. Therefore, in the first two years of the baby's birth, he can have a stable and comfortable environment, and it is very important to nourish the development of brain nerve links to a certain extent."
+- https://mp.weixin.qq.com/s/zvvfl905rDNY-ipppStlYw 
+
 ***
 
 Read the centre for curiosity
